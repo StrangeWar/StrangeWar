@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=strangewar&show_icons=true&locale=en&layout=compact" alt="strangewar" /></p>
 
-
+![Snake animation](https://raw.githubusercontent.com/StrangeWar/StrangeWar/output/github-contribution-grid-snake-dark.svg)
