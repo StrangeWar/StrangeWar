@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my Web development skill.**
 
-- 🌱 I’m currently learning **C# and Unity for game development.**
-
 - ⚡ Fun fact **I love coding and playing Video games.**
 
 <h3 align="left">Connect with me:</h3>
