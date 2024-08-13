@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Web development skill.**
 
-- ⚡ Fun fact **I love coding and playing Video games.**
+- ⚡ Fun fact **I love coding and develop Softwares.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
