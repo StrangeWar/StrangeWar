@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **my Web development skill.**
+- 🔭 I’m currently working on **my AI/ML development skill.**
 
 - ⚡ Fun fact **I love coding and develop Softwares.**
 
